@@ -1,0 +1,8 @@
+streamlit
+pandas
+# For GPU support, install the appropriate version from https://pytorch.org/get-started/locally/
+torch
+transformers
+accelerate
+bitsandbytes
+PyMuPDF
